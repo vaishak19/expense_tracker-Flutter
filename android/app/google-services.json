@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422905941537",
+    "project_id": "blcfr-otp-f9b54",
+    "storage_bucket": "blcfr-otp-f9b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422905941537:android:87fd0469b6b017c47ddd60",
+        "android_client_info": {
+          "package_name": "com.example.assignment_black"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422905941537-8t0fg5kpuopit9poagt4gcp5gpjj7fbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSGB4l4nVJmb_DtE5ikR0WDbCWau74O_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422905941537-8t0fg5kpuopit9poagt4gcp5gpjj7fbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
